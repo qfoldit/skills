@@ -1,4 +1,4 @@
-# qFoldIT Agent Skills
+# [qFoldIT](https://qfoldit.github.io/claude/) Agent Skills
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-green)](https://agentskills.io)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
