@@ -1,0 +1,44 @@
+{
+  "plugins": [
+    {
+      "name": "qfoldit-mining",
+      "description": "Bio-oxidation, biosorption & cyanide biodegradation in gold mining",
+      "path": "qfoldit-mining"
+    },
+    {
+      "name": "qfoldit-oilgas",
+      "description": "CO₂ corrosion rate prediction for carbon steel pipelines",
+      "path": "qfoldit-oilgas"
+    },
+    {
+      "name": "qfoldit-prospecting",
+      "description": "Microbial community analysis for hidden ore deposit detection",
+      "path": "qfoldit-prospecting"
+    },
+    {
+      "name": "qfoldit-meor",
+      "description": "Microbial enhanced oil recovery (MEOR) from inoculation to incremental oil",
+      "path": "qfoldit-meor"
+    },
+    {
+      "name": "qfoldit-quantum",
+      "description": "VQE simulator for ground-state energy of small Hamiltonians (2–4 qubits)",
+      "path": "qfoldit-quantum"
+    },
+    {
+      "name": "qfoldit-l-systems",
+      "description": "L-system fractal & plant generator, renders to SVG",
+      "path": "qfoldit-l-systems"
+    },
+    {
+      "name": "qfoldit-plant-growth-model",
+      "description": "Qualitative plant growth influenced by NPK, light intensity & spectrum",
+      "path": "qfoldit-plant-growth-model"
+    },
+    {
+      "name": "qfoldit-plastic-characterization",
+      "description": "Pyrolysis yield estimator for mixed plastic waste, chlorine risk & fouling score",
+      "path": "qfoldit-plastic-characterization"
+    }
+  ]
+}
