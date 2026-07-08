@@ -1,21 +1,54 @@
 {
-  "name": "qfoldit",
-  "description": "Scientific simulation skills from qFoldIT: classical VQE molecular simulation, protein/biomolecular modeling helpers, plant growth and L-system morphogenesis models, and geo/bio-industrial kinetics (pipeline corrosion, bioleaching/biosorption, microbial enhanced oil recovery, plastic pyrolysis yield, geo-prospecting indicator-taxa statistics).",
+  "name": "qfoldit-skills",
   "version": "1.0.0",
-  "author": {
-    "name": "qFoldIT",
-    "url": "https://qfoldit.github.io/claude/"
-  },
-  "homepage": "https://github.com/qfoldit",
+  "description": "Eight scientific-simulation skills for Claude Code: VQE, L-systems, MEOR, bio-mining, corrosion, plant growth, plastic pyrolysis, and microbial prospecting.",
+  "author": "qFoldIT",
+  "license": "MIT",
   "repository": "https://github.com/qfoldit/skills",
-  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "homepage": "https://qfoldit.github.io/claude/",
   "keywords": [
     "science",
+    "simulation",
     "chemistry",
-    "quantum-chemistry",
     "biology",
-    "geoscience",
-    "kinetics",
-    "simulation"
-  ]
+    "quantum",
+    "L-systems",
+    "corrosion",
+    "mining",
+    "plastic pyrolysis"
+  ],
+  "skills": {
+    "quantum": {
+      "description": "Classical VQE simulator (numpy) for small Hamiltonians",
+      "path": "skills/quantum"
+    },
+    "l-systems": {
+      "description": "L-systems for procedural plant branching/morphogenesis",
+      "path": "skills/l-systems"
+    },
+    "meor": {
+      "description": "Kinetics of microbial enhanced oil recovery",
+      "path": "skills/meor"
+    },
+    "mining": {
+      "description": "Bio-oxidation and biosorption kinetics for metal recovery",
+      "path": "skills/mining"
+    },
+    "oilgas": {
+      "description": "CO2 pipeline corrosion rate and remaining-wall-life estimation",
+      "path": "skills/oilgas"
+    },
+    "plant-growth": {
+      "description": "Biomass growth modeling (climate, CO2, water, NPK)",
+      "path": "skills/plant-growth"
+    },
+    "plastic-characterization": {
+      "description": "Pyrolysis yield prediction for plastics (oil/gas/char)",
+      "path": "skills/plastic-characterization"
+    },
+    "prospecting": {
+      "description": "Indicator-taxa statistics for geo-prospecting/mineralization",
+      "path": "skills/prospecting"
+    }
+  }
 }
