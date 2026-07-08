@@ -3,6 +3,8 @@
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-green)](https://agentskills.io)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
+![](https://qfoldit.github.io/claude/claude_science.png)
+
 **Eight scientific & engineering agent skills for Claude Code (and other Agent Skills platforms).**  
 Designed for researchers and engineers working in bio‑mining, corrosion, environmental microbiology, oil recovery, quantum simulation, procedural modelling, plant science, and plastic waste valorisation.
 
