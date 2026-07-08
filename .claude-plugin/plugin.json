@@ -1,0 +1,21 @@
+{
+  "name": "qfoldit",
+  "description": "Scientific simulation skills from qFoldIT: classical VQE molecular simulation, protein/biomolecular modeling helpers, plant growth and L-system morphogenesis models, and geo/bio-industrial kinetics (pipeline corrosion, bioleaching/biosorption, microbial enhanced oil recovery, plastic pyrolysis yield, geo-prospecting indicator-taxa statistics).",
+  "version": "1.0.0",
+  "author": {
+    "name": "qFoldIT",
+    "url": "https://qfoldit.github.io/claude/"
+  },
+  "homepage": "https://github.com/qfoldit",
+  "repository": "https://github.com/qfoldit/skills",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "keywords": [
+    "science",
+    "chemistry",
+    "quantum-chemistry",
+    "biology",
+    "geoscience",
+    "kinetics",
+    "simulation"
+  ]
+}
