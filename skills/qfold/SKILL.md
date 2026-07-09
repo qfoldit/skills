@@ -1,6 +1,6 @@
 ---
 name: qfoldit-qfold
-description: Hybrid quantum-classical protein folding on the 2D HP (Hydrophobic/Polar) lattice model (Dill, 1985) with a QAOA-style circuit on Amazon Braket LocalSimulator, plus optional delegation to a full qFold MCP server (torsion-angle, quantum-walk, Psi4) when available. Use this skill whenever the user asks about protein folding, HP-model folding, lattice protein folding, hydrophobic-polar sequences, or "qfold"/"qFoldIT qfold". Trigger even if the user just gives an amino-acid or H/P sequence and asks how it folds. Do NOT use this for real 3D all-atom structure prediction unless the MCP server is explicitly available and requested.
+description: Hybrid quantum-classical protein folding on the 2D HP (Hydrophobic/Polar) lattice model (Dill, 1985) with a QAOA-style circuit on Amazon Braket LocalSimulator, plus optional delegation to a full qFold MCP server (torsion-angle, quantum-walk, Psi4) when available. Use this skill whenever the user asks about protein folding, HP-model folding, lattice protein folding, hydrophobic-polar sequences, or qfold/qFoldIT qfold. Trigger even if the user just gives an amino-acid or H/P sequence and asks how it folds. Do NOT use this for real 3D all-atom structure prediction unless the MCP server is explicitly available and requested.
 ---
 
 # qfoldit-qfold (2D HP-lattice folding + optional full qFold MCP)
