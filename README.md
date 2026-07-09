@@ -100,7 +100,7 @@ Capabilities:
 
 ---
 
-## qfoldit-meor
+## meor
 
 Microbial Enhanced Oil Recovery.
 
@@ -113,7 +113,7 @@ Capabilities:
 
 ---
 
-## qfoldit-oilgas
+## oilgas
 
 CO₂ Corrosion in Pipelines.
 
@@ -129,7 +129,7 @@ Capabilities:
 # Biological Simulation Skills
 
 
-## qfoldit-l-systems
+## l-systems
 
 L-System Fractals & Plants.
 
@@ -142,7 +142,7 @@ Capabilities:
 
 ---
 
-## qfoldit-plant-growth-model
+## plant-growth-model
 
 Plant Nutrition & Light Model.
 
@@ -158,7 +158,7 @@ Capabilities:
 # Materials & Industrial Skills
 
 
-## qfoldit-plastic-characterization
+## plastic-characterization
 
 Plastic Pyrolysis Estimator.
 
@@ -174,7 +174,7 @@ Capabilities:
 # Digital Twin & Engineering Skills
 
 
-## qfoldit-game-designer
+## game-designer
 
 Creates:
 
@@ -186,7 +186,7 @@ Creates:
 
 ---
 
-## qfoldit-digital-twin-builder
+## digital-twin-builder
 
 Creates:
 
@@ -197,7 +197,7 @@ Creates:
 
 ---
 
-## qfoldit-openusd
+## openusd
 
 OpenUSD workflows:
 
@@ -231,7 +231,7 @@ Unity integration:
 
 ---
 
-## qfoldit-omniverse
+## omniverse
 
 NVIDIA Omniverse integration:
 
@@ -242,7 +242,7 @@ NVIDIA Omniverse integration:
 
 ---
 
-## qfoldit-unigine
+## unigine
 
 UNIGINE 2 / UNIGINE Sim integration:
 
@@ -253,7 +253,7 @@ UNIGINE 2 / UNIGINE Sim integration:
 
 ---
 
-## qfoldit-xcode
+## xcode
 
 Apple ecosystem integration:
 
@@ -267,7 +267,7 @@ Apple ecosystem integration:
 
 ---
 
-## qfoldit-web3d
+## web3d
 
 Web Digital Twin workflows:
 
