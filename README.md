@@ -58,7 +58,7 @@ Purpose:
 
 ---
 
-## qfoldit-quantum
+## quantum
 
 Quantum Computing Simulation Skill.
 
@@ -75,7 +75,7 @@ Capabilities:
 # Bioindustrial & Environmental Skills
 
 
-## qfoldit-mining
+## mining
 
 Bioprocesses in Mining.
 
@@ -88,7 +88,7 @@ Capabilities:
 
 ---
 
-## qfoldit-prospecting
+## prospecting
 
 Microbial Ore Prospecting.
 
