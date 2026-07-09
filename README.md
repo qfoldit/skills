@@ -28,22 +28,9 @@ https://github.com/qfoldit/skills/
 
 # Scientific AI Skills
 
-
-## qfoldit-bionemo-agent-toolkit
-
-NVIDIA BioNeMo integration layer.
-
-Purpose:
-
-- AI-driven molecular workflows;
-- biological structure analysis;
-- protein and biomolecular modeling;
-- scientific AI pipelines.
-
-
 ---
 
-## qfoldit-qfold
+## qfold
 
 Quantum Molecular Folding workflows.
 
@@ -53,6 +40,20 @@ Purpose:
 - protein structure exploration;
 - citizen science workflows;
 - computational biology.
+
+---
+
+
+## bionemo-agent-toolkit
+
+NVIDIA BioNeMo integration layer.
+
+Purpose:
+
+- AI-driven molecular workflows;
+- biological structure analysis;
+- protein and biomolecular modeling;
+- scientific AI pipelines.
 
 
 ---
