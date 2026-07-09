@@ -209,7 +209,7 @@ OpenUSD workflows:
 
 ---
 
-## qfoldit-unreal
+## unreal
 
 Unreal Engine integration:
 
@@ -221,7 +221,7 @@ Unreal Engine integration:
 
 ---
 
-## qfoldit-unity
+## unity
 
 Unity integration:
 
