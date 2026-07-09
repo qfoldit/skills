@@ -280,7 +280,7 @@ Web Digital Twin workflows:
 
 ## Links
 
-- [qFoldIT website](https://qfoldit.github.io/claude/)
+- [qFoldIT](https://qfoldit.github.io/claude/)
 - [Agent Skills specification](https://agentskills.io)
 - [Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code)
 
