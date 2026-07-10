@@ -145,10 +145,12 @@ Capabilities:
 
 ## plant-growth-model# [qFoldIT](https://qfoldit.github.io/claude/) Agent Skills Plugin
 
+<!--
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-green)](https://agentskills.io)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-![](https://qfoldit.github.io/claude/claude_science.png)
+![](https://qfoldit.github.io/claude/claude_science.png) 
+-->
 
 # Included Agent Skills
 
